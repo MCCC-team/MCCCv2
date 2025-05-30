@@ -1,6 +1,6 @@
 # Minecraft Cheat Checker (MCCC)
 
-![MCCC Banner](https://via.placeholder.com/800x200?text=Minecraft+Cheat+Checker)  
+![MCCC Banner](https://via.placeholder.com/800x200?text=Minecraft+Cheat+Checker](https://github.com/MCCC-team/MCCCv2/blob/dev/MCCC%20logo.png?raw=true)  
 Лёгкое приложение для проверки клиента Minecraft на читы и модификации.
 
 ---
